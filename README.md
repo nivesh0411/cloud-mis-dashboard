@@ -21,4 +21,5 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard_view.png)
+!![Dashboard](https://github.com/user-attachments/assets/335537d3-53ef-410c-b24d-d2f38570d154)
+
